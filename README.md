@@ -1,0 +1,2 @@
+# SpeechToEmotion
+SER using CNN
